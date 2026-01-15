@@ -12,8 +12,6 @@ AThena is a television which integrated antenna which getting television signal 
 
 ![image.png](image%201.png)
 
-[https://github.com/vietphan1995/projects](https://github.com/vietphan1995/projects)
-
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
